@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FPS study 01",
+"dataUrl": "FPS08.data.unityweb",
+"wasmCodeUrl": "FPS08.wasm.code.unityweb",
+"wasmFrameworkUrl": "FPS08.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
